@@ -6,7 +6,7 @@ OpenCV (Open Source Computer Vision Library) is the huge open-source library for
 
 Haar feature-based cascade classifiers is a machine learning based approach where a cascade function is trained from a lot of positive images and negative images. It is then used to detect objects in other images.
 
-![image](https://user-images.githubusercontent.com/79005878/182939622-f89e9f8b-c0cb-4073-92ae-75636c886ae3.png)
-![image](https://user-images.githubusercontent.com/79005878/182939655-3c70fa39-c68f-44d1-8086-4a2ff389bab5.png)
+![image](https://user-images.githubusercontent.com/79005878/182939897-456051c1-3cff-499e-a7ff-d1b59de449bf.png)
+
 ![image](https://user-images.githubusercontent.com/79005878/182939721-a5f4ec26-d78b-4252-b80c-c89dcd6b4aab.png)
 
